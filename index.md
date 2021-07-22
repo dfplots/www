@@ -10,4 +10,5 @@ More info @ [the discord](https://discord.gg/rxmfkDjy6c).
 - [1669](https://1669.dfplots.net/)
 - [50020](https://50020.dfplots.net/)
 - [velocity](https://velocity.dfplots.net/)
+- [wallhangout](https://wallhangout.dfplots.net/)
 - [www](https://www.dfplots.net/)
