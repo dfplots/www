@@ -9,6 +9,7 @@ More info @ [the discord](https://discord.gg/rxmfkDjy6c).
 ### Directory
 - [blocc](https://blocc.dfplots.net/)
 - [croc](https://croc.dfplots.net/)
+- [dftools](https://dftools.dfplots.net/)
 - [plotnet](https://plotnet.dfplots.net/)
 - [SectorSkript](https://sectorskript.dfplots.net/)
 - [terrain2](https://terrain2.dfplots.net/)
